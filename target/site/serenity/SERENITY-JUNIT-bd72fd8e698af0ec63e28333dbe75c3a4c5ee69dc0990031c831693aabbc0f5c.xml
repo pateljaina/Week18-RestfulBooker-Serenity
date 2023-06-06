@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.restful.booker.booker.testsuite.BookingCRUDTest" skipped="0" tests="1" time="0.0" timestamp="2023-06-06T15:40:57.578+01:00[Europe/London]"><testcase classname="com.restful.booker.booker.testsuite.BookingCRUDTest" name="Initialisation"><error message="Unable to load cache item" type="java.lang.IllegalStateException">Unable to load cache item</error><system-err>Unable to load cache item&#13;
+</system-err></testcase></testsuite>
